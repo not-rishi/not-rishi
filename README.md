@@ -48,100 +48,37 @@ Engineering solutions to problems that didn't exist yesterday. Automating the oc
 
 
 
-# ✦ Featured Projects
+<h2 align="center">✦ Featured Projects</h2>
 
 <div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
 
 <a href="https://github.com/not-rishi/bcep">
-
-<img src="assets/cards/bcep.png" width="340">
-
+  <img src="assets/cards/bcep.png" width="340" alt="BCEP" style="margin: 6px;">
 </a>
-
-</td>
-
-<td align="center">
-
 <a href="https://prism.notrishi.tech">
-
-<img src="assets/cards/prism.png" width="340">
-
+  <img src="assets/cards/prism.png" width="340" alt="Prism" style="margin: 6px;">
 </a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
 <a href="https://github.com/not-rishi/quickpool">
-
-<img src="assets/cards/qp.gif" width="340">
-
+  <img src="assets/cards/qp.gif" width="340" alt="QuickPool" style="margin: 6px;">
 </a>
-
-</td>
-
-<td align="center">
-
 <a href="https://github.com/not-rishi/ingenuity">
-
-<img src="assets/cards/ingenuity.gif" width="340">
-
+  <img src="assets/cards/ingenuity.gif" width="340" alt="Ingenuity" style="margin: 6px;">
 </a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
 <a href="https://github.com/not-rishi/sentinal">
-
-<img src="assets/cards/sentinal.png" width="340">
-
+  <img src="assets/cards/sentinal.png" width="340" alt="Sentinel" style="margin: 6px;">
 </a>
-
-</td>
-
-<td align="center">
-
 <a href="https://github.com/not-rishi/calg">
-
-<img src="assets/cards/calg.gif" width="340">
-
+  <img src="assets/cards/calg.gif" width="340" alt="Calg" style="margin: 6px;">
 </a>
-
-</td>
-<td align="center">
-
 <a href="https://github.com/not-rishi/crystal-auto-logger">
-
-<img src="assets/cards/crystal.png" width="340">
-
+  <img src="assets/cards/crystal.png" width="340" alt="Crystal Auto Logger" style="margin: 6px;">
 </a>
 
-</td>
+<br /><br />
 
-</tr>
+<img src="assets/animated/purple-svg.svg" width="100%" alt="Divider" />
 
-</table>
 
-</div>
-
-<div align="center">
-  <img src="assets/animated/purple-svg.svg" width="100%">
-</div>
 
 <!-- # ✦ GitHub Analytics
 
