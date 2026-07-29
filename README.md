@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/tokyoghoul.png" width="100%" alt="Banner"/>
+<img src="assets/banner.jpg" width="100%" alt="Banner"/>
 
 <br>
 
@@ -45,22 +45,18 @@ My interests include full-stack development, backend engineering, automation, we
 
 <div align="center">
 
-### Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&perline=6"/>
 
-### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,threejs&perline=7"/>
 
-### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=3"/>
 
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2"/>
 
-### Tools & Cloud
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,bash,azure,gcp,vercel&perline=8"/>
 
@@ -72,69 +68,33 @@ My interests include full-stack development, backend engineering, automation, we
 
 <div align="center">
 
-<table width="100%">
-<tr>
-
-<td width="33.33%" align="center">
 <a href="https://github.com/not-rishi/bcep">
-<img src="assets/cards/bcep.png" width="280" alt="BCEP">
+  <img src="assets/cards/bcep.png" width="32%" alt="BCEP">
 </a>
-</td>
-
-<td width="33.33%" align="center">
 <a href="https://prism.notrishi.tech">
-<img src="assets/cards/prism.png" width="280" alt="Prism">
+  <img src="assets/cards/prism.png" width="32%" alt="Prism">
 </a>
-</td>
-
-<td width="33.33%" align="center">
 <a href="https://github.com/not-rishi/quickpool">
-<img src="assets/cards/qp.gif" width="280" alt="QuickPool">
+  <img src="assets/cards/qp.gif" width="32%" alt="QuickPool">
 </a>
-</td>
 
-</tr>
 
-<tr>
-
-<td width="33.33%" align="center">
 <a href="https://github.com/not-rishi/ingenuity">
-<img src="assets/cards/ingenuity.gif" width="280" alt="Ingenuity">
+  <img src="assets/cards/ingenuity.gif" width="32%" alt="Ingenuity">
 </a>
-</td>
-
-<td width="33.33%" align="center">
 <a href="https://github.com/not-rishi/sentinal">
-<img src="assets/cards/sentinal.png" width="280" alt="Sentinal">
+  <img src="assets/cards/sentinal.png" width="32%" alt="Sentinal">
 </a>
-</td>
-
-<td width="33.33%" align="center">
 <a href="https://github.com/not-rishi/calg">
-<img src="assets/cards/calg.gif" width="280" alt="CALG">
+  <img src="assets/cards/calg.gif" width="32%" alt="CALG">
 </a>
-</td>
 
-</tr>
 
-<tr>
-
-<td width="33.33%" align="center">
 <a href="https://github.com/not-rishi/crystal-auto-logger">
-<img src="assets/cards/crystal.png" width="280" alt="Crystal Auto Logger">
+  <img src="assets/cards/crystal.png" width="32%" alt="Crystal Auto Logger">
 </a>
-</td>
-
-<td width="33.33%">&nbsp;</td>
-<td width="33.33%">&nbsp;</td>
-
-</tr>
-
-</table>
 
 </div>
-
-<img src="assets/animated/kuromi-line.svg" width="100%">
 
 # Connect
 
