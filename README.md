@@ -1,126 +1,164 @@
+
 <div align="center">
 
-<img src="assets/animated/header.gif" width="100%">
+<img src="assets/tokyoghoul.png" width="100%" alt="Banner"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+Things;Application+%E2%9C%95+WebDev+%E2%9C%95+Automation;Welcome+to+my+Github!" />
-
-<div align="center">
-  <img src="assets/animated/kuromi-line.svg" width="100%">
-</div>
-
-<!-- <img src="https://komarev.com/ghpvc/?username=not-rishi&style=for-the-badge&color=8A2BE2"> -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+•+Automation+•+Open+Source;Building+Software+That+Solves+Problems" />
 
 
+Building practical software, developer tools, and modern web applications with clean architecture and thoughtful design.
+
+<img src="assets/animated/kuromi-line.svg" width="100%">
 
 <table>
 <tr>
 
-<td width="65%">
+<td width="65%" valign="top">
 
-# ✦ About Me
+# About Me
+
+I'm a **Computer Science student** focused on building practical software with clean architecture and scalable systems.
+
+My interests include full-stack development, backend engineering, automation, scraping, and cloud technologies.
 
 
-Engineering solutions to problems that didn't exist yesterday. Automating the occasional task, and creating things that are as practical as they are fun to build. 
+</td>
 
 <td width="35%" align="center">
 
-<img src="assets/animated/kuromi.gif" width="270">
+<img src="assets/animated/megumi.gif" width="280">
+
+</td>
 
 </tr>
 </table>
 
+<img src="assets/animated/kuromi-line.svg" width="100%">
+
+# Tech Stack
+
 <div align="center">
-  <img src="assets/animated/purple-svg.svg" width="100%">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&perline=6"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,threejs&perline=7"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=3"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2"/>
+
+### Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,bash,azure,gcp,vercel&perline=8"/>
+
 </div>
 
-<div align="center">
-  <h2>✦ Core Competencies</h2>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nextjs,tailwind,vite,threejs,nodejs,express,fastapi,mongodb,mysql,azure,gcp,git,github,vercel,heroku,docker,postman,bash&perline=9" />
-</div>
+<img src="assets/animated/kuromi-line.svg" width="100%">
 
+# Featured Projects
 
 <div align="center">
-  <img src="assets/animated/purple-svg.svg" width="100%">
-</div>
-
-
-
-<h2 align="center">✦ Featured Projects</h2>
-
-<div align="center">
-
-<a href="https://github.com/not-rishi/bcep">
-  <img src="assets/cards/bcep.png" width="340" alt="BCEP" style="margin: 6px;">
-</a>
-<a href="https://prism.notrishi.tech">
-  <img src="assets/cards/prism.png" width="340" alt="Prism" style="margin: 6px;">
-</a>
-<a href="https://github.com/not-rishi/quickpool">
-  <img src="assets/cards/qp.gif" width="340" alt="QuickPool" style="margin: 6px;">
-</a>
-<a href="https://github.com/not-rishi/ingenuity">
-  <img src="assets/cards/ingenuity.gif" width="340" alt="Ingenuity" style="margin: 6px;">
-</a>
-<a href="https://github.com/not-rishi/sentinal">
-  <img src="assets/cards/sentinal.png" width="340" alt="Sentinel" style="margin: 6px;">
-</a>
-<a href="https://github.com/not-rishi/calg">
-  <img src="assets/cards/calg.gif" width="340" alt="Calg" style="margin: 6px;">
-</a>
-<a href="https://github.com/not-rishi/crystal-auto-logger">
-  <img src="assets/cards/crystal.png" width="340" alt="Crystal Auto Logger" style="margin: 6px;">
-</a>
-
-<br /><br />
-
-<img src="assets/animated/purple-svg.svg" width="100%" alt="Divider" />
-
-
-
-<!-- # ✦ GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=not-rishi&show_icons=true&theme=tokyonight&hide_border=true">
-
-<img width="48%" src="https://streak-stats.demolab.com?user=not-rishi&theme=tokyonight&hide_border=true">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-rishi&layout=compact&theme=tokyonight&hide_border=true">
-
-</div> -->
-
-
-# ✦ Connect
-
-<div align="center">
-
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord">
-</a>
-
-<a href="mailto:rishichourasiadbms@gmail.com">
-<img src="https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail">
-</a>
-
-<div align="center">
-  <img src="assets/animated/purple-svg.svg" width="100%">
-</div>
-
 
 <table>
+
 <tr>
-<td width="35%" align="left">
-  <img src="assets/animated/footer.gif" width="100%">
+
+<td align="center">
+<a href="https://github.com/not-rishi/bcep">
+<img src="assets/cards/bcep.png" width="280">
+</a>
 </td>
 
-<td width="65%" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=450&lines=Thanks+for+stopping+by!;Happy+Coding!;See+you+in+the+next+commit." />
-
+<td align="center">
+<a href="https://prism.notrishi.tech">
+<img src="assets/cards/prism.png" width="280">
+</a>
 </td>
+
+<td align="center">
+<a href="https://github.com/not-rishi/quickpool">
+<img src="assets/cards/qp.gif" width="280">
+</a>
+</td>
+
 </tr>
+
+<tr>
+
+<td align="center">
+<a href="https://github.com/not-rishi/ingenuity">
+<img src="assets/cards/ingenuity.gif" width="280">
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/not-rishi/sentinal">
+<img src="assets/cards/sentinal.png" width="280">
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/not-rishi/calg">
+<img src="assets/cards/calg.gif" width="280">
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://github.com/not-rishi/crystal-auto-logger">
+<img src="assets/cards/crystal.png" width="280">
+</a>
+</td>
+
+<td></td>
+<td></td>
+
+</tr>
+
 </table>
+
+</div>
+
+
+
+<img src="assets/animated/kuromi-line.svg" width="100%">
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:rishichourasiadbms@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+
+<a href="https://github.com/not-rishi">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+
+</div>
+
+<img src="assets/animated/kuromi-line.svg" width="100%">
+
+<div align="center">
+
+<img src="assets/rize.png" width="100%">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting!;See+you+in+the+next+commit.;Keep+coding." />
+
+</div>
+
