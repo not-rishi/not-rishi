@@ -8,10 +8,7 @@
 src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+%E2%80%A2+Automation+%E2%80%A2+Open+Source;Building+Software+That+Solves+Problems"
 alt="Typing SVG"
 />
-
-<br>
-
-Building practical software, developer tools, and modern web applications with clean architecture and thoughtful design.
+<p>Building practical software, developer tools, and modern web applications with clean architecture and thoughtful design.</p>
 
 <img src="assets/animated/kuromi-line.svg" width="100%">
 
@@ -69,29 +66,29 @@ My interests include full-stack development, backend engineering, automation, we
 <div align="center">
 
 <a href="https://github.com/not-rishi/bcep">
-  <img src="assets/cards/bcep.png" width="32%" alt="BCEP">
+  <img src="assets/cards/bcep.png" width="24%" alt="BCEP">
 </a>
 <a href="https://prism.notrishi.tech">
-  <img src="assets/cards/prism.png" width="32%" alt="Prism">
+  <img src="assets/cards/prism.png" width="24%" alt="Prism">
 </a>
 <a href="https://github.com/not-rishi/quickpool">
-  <img src="assets/cards/qp.gif" width="32%" alt="QuickPool">
+  <img src="assets/cards/qp.gif" width="24%" alt="QuickPool">
 </a>
 
 
 <a href="https://github.com/not-rishi/ingenuity">
-  <img src="assets/cards/ingenuity.gif" width="32%" alt="Ingenuity">
+  <img src="assets/cards/ingenuity.gif" width="24%" alt="Ingenuity">
 </a>
-<a href="https://github.com/not-rishi/sentinal">
-  <img src="assets/cards/sentinal.png" width="32%" alt="Sentinal">
+<a href="https://github.com/not-rishi/sentinel">
+  <img src="assets/cards/sentinal.png" width="24%" alt="Sentinel">
 </a>
 <a href="https://github.com/not-rishi/calg">
-  <img src="assets/cards/calg.gif" width="32%" alt="CALG">
+  <img src="assets/cards/calg.gif" width="24%" alt="CALG">
 </a>
 
 
 <a href="https://github.com/not-rishi/crystal-auto-logger">
-  <img src="assets/cards/crystal.png" width="32%" alt="Crystal Auto Logger">
+  <img src="assets/cards/crystal.png" width="24%" alt="Crystal Auto Logger">
 </a>
 
 </div>
