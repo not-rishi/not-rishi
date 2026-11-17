@@ -70,7 +70,7 @@ My interests include full-stack development, backend engineering, automation, we
 </a>
 
 <a href="https://notrishi.tech">
-  <img src="assets/cards/notfolio.gif" width="24%" alt="BCEP">
+  <img src="assets/cards/notfolio.png" width="24%" alt="BCEP">
 </a>
 <a href="https://prism.notrishi.tech">
   <img src="assets/cards/prism.png" width="24%" alt="Prism">
